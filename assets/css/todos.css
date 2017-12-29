@@ -50,7 +50,7 @@ span {
    width: 0;
    display: inline-block;
    opacity: 0;
-   transition: 0.6s linear;
+   transition: 0.5s linear;
 }
 
 li:hover span {
